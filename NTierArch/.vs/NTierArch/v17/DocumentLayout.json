@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7B90E3-F02A-47F0-9FCB-B208F8D591D6}|Presentation\\Presentation.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7B90E3-F02A-47F0-9FCB-B208F8D591D6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\concrete\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\constants\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\constants\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\abstract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\abstract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA88F7-E7BB-4AA7-9F4B-45B81BF7C0AF}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\repositories\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A68A56A-3A0A-49AA-8D20-4DFF2F902B2A}|Core\\Core.csproj|solutionrelative:core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|c:\\users\\darya\\desktop\\ayhan13\\ntierarch\\data\\migrations\\20240721085449_groupadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DB52BF-BC2F-47B3-A1F3-0BBBC2849320}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240721085449_groupadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\Operation.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Operation.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\Operation.cs",
+              "RelativeToolTip": "Core\\Constants\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:43:42.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:58:35.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\GroupService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:09:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:20:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:19:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\StudentRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:20:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Abstract\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:18:00.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:19:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\StudentService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:08:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:07:21.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\Messages.cs",
+              "RelativeToolTip": "Core\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:04:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Abstract\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:09:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Base\\Repository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:24:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Base\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:24:44.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:28:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\GroupRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:08:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:22:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CharExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Extensions\\CharExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\CharExtensions.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Extensions\\CharExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\CharExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:37:25.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "Core\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:34:01.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeToolTip": "Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:21:36.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:13:57.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240721085449_GroupAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Migrations\\20240721085449_GroupAdded.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240721085449_GroupAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\NTierArch\\Data\\Migrations\\20240721085449_GroupAdded.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240721085449_GroupAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:54:49.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
